@@ -1,2 +1,2 @@
-<h1>Fireship Svelte Tutorial Homepage</h1>
-<a href = "/hello">Hello page</a>
+<h1 class="text-green-400 ">Fireship Svelte Tutorial Homepage</h1>
+<p class="to-blue-400">testing stylesheets</p>
