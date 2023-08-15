@@ -1,7 +1,8 @@
 <script lang="ts">
     import type { PageData } from './$types';
-
+    
     export let data: PageData;
 </script>
 
-{data.text}
+<h1>hello lol</h1>
+<a href="/boat">Link to Boat testing</a>
